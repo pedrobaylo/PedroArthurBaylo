@@ -13,7 +13,7 @@ My favorite hobbies are: Play games, read books, practice coding and do physical
 - 🌎 Português Brasileiro, English.
 
 ### Me siga
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tassolacerda/)](https://www.instagram.com/my_name_is_baylo/?utm_medium=copy_link) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-arthur-cutrim-bayl%C3%A3o-9219b6205/)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tassolacerda/)](https://www.instagram.com/my_name_is_baylo/?utm_medium=copy_link)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrobaylao/)](https://www.linkedin.com/in/pedrobaylao/) 
 ### Aprendendo :open_book::
  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <hr>
