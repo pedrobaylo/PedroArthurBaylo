@@ -1,16 +1,20 @@
-### Hi there 👋
+# Pedro Arthur
 
-<!--
-**PedroArthurBaylo/PedroArthurBaylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pedro Arthur
 
-Here are some ideas to get you started:
+I'm a  Graphic Designer, Web Developer, that has been studying in Digital Innovation One since 2021. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My favorite hobbies are: Play games, read books, practice coding and do physical exercises.
+
+## 🚀 About me
+
+- 📍 From Goiânia, Goiás
+- 💻 Developer 
+- 🌎 Português Brasileiro, English.
+
+### Me siga
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/tassolacerda/)](https://www.instagram.com/my_name_is_baylo/?utm_medium=copy_link) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-arthur-cutrim-bayl%C3%A3o-9219b6205/)
+### Aprendendo :open_book::
+ ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<hr>
+
