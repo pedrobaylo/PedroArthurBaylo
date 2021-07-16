@@ -1,6 +1,6 @@
 # Pedro Arthur
 
-My name is Pedro Arthur
+My name is Pedro Arthur Cutrim Baylão
 
 I'm a  Graphic Designer, Web Developer, that has been studying in Digital Innovation One since 2021. 
 
