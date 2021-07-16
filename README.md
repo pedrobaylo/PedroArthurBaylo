@@ -2,7 +2,7 @@
 
 My name is Pedro Arthur Cutrim Baylão
 
-I'm a  Graphic Designer, Web Developer, that has been studying in Digital Innovation One since 2021. 
+I'm a  Graphic Designer and Front-End Developer that has been studying in Digital Innovation One since 2021. 
 
 My favorite hobbies are: Play games, read books, practice coding and do physical exercises.
 
